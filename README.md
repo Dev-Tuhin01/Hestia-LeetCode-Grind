@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
