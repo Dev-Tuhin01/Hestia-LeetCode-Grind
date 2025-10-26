@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Hash Table
 |  |
 | ------- |
