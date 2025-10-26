@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
+| [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
