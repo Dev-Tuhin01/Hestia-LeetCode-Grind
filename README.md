@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
