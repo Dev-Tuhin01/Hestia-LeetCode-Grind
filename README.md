@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 ## Design
 |  |
@@ -91,10 +94,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
