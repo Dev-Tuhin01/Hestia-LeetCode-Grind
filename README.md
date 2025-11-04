@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0058-length-of-last-word) |
+| [2032-largest-odd-number-in-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2032-largest-odd-number-in-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2032-largest-odd-number-in-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
