@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 ## Design
 |  |
