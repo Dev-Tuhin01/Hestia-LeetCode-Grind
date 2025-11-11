@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2032-largest-odd-number-in-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2032-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
