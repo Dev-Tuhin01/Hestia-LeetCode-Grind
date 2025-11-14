@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
