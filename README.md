@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -142,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
