@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
