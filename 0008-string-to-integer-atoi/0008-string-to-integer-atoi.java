@@ -4,6 +4,7 @@ class Solution {
       if(s.length() == 0) return 0;
       double n =0;
       boolean neg = false;
+      
       if(s.charAt(0) == '-') neg = true;
       else if(s.charAt(0) == '+') neg = false;
       else if((s.charAt(0) - '0') >= 0 && (s.charAt(0) - '0') <= 9) n += (s.charAt(0) - '0');
