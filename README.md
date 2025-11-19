@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Design
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0054-spiral-matrix) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
