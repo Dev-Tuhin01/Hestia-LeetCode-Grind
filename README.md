@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0328-odd-even-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
