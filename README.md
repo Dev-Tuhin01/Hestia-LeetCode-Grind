@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0237-delete-node-in-a-linked-list) |
