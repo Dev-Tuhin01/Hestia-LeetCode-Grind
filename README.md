@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0907-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2169-simple-bank-system](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Dev-Tuhin01/Hestia-LeetCode-Grind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
